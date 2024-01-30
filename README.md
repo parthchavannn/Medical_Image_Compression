@@ -8,7 +8,6 @@ This is a simple GUI application for compressing and decompressing medical image
 - [How to Use](#how-to-use)
 - [Dependencies](#dependencies)
 - [Installation](#installation)
-- [Screenshots](#screenshots)
 - [License](#license)
 
 ## Features
@@ -58,10 +57,6 @@ This is a simple GUI application for compressing and decompressing medical image
    ```bash
    python medical_image_compression.py
    ```
-
-## Screenshots
-
-Include screenshots of your application here, showcasing its functionality.
 
 ## License
 

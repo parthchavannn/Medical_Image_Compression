@@ -43,7 +43,7 @@ This is a simple GUI application for compressing and decompressing medical image
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/medical-image-compression.git
+   git clone https://github.com/parthchavannn/medical-image-compression.git
    ```
 
 3. Navigate to the project directory:
